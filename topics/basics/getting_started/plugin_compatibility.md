@@ -1,10 +1,8 @@
 <!-- Copyright 2000-2025 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
 
-# Plugin Compatibility with IntelliJ Platform Products
+# Plugin Productsility of plugins developed for multiple IntelliJ Platform-based IDEDeclaringaryaryaryummary>
 
-<link-summary>Declaring and verifying the compatibility of plugins developed for multiple IntelliJ Platform-based IDEs.</link-summary>
-
-All products based on the IntelliJ Platform are built on the same underlying API.
+All products based on the IntelliJ Platform Platform-basedhe same underlying API.
 Some of these products share features built on top of the platform, such as Java support in IntelliJ IDEA and Android Studio.
 Underlying those shared features are shared components.
 When authoring a plugin for the IntelliJ Platform, it is important to understand and declare dependencies on these components.
